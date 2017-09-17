@@ -1,0 +1,6 @@
+c:\users\richard iyama\documents\visual studio 2017\Projects\OneDuplicationInArray\OneDuplicationInArray\bin\Debug\OneDuplicationInArray.exe.config
+c:\users\richard iyama\documents\visual studio 2017\Projects\OneDuplicationInArray\OneDuplicationInArray\bin\Debug\OneDuplicationInArray.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\OneDuplicationInArray\OneDuplicationInArray\bin\Debug\OneDuplicationInArray.pdb
+c:\users\richard iyama\documents\visual studio 2017\Projects\OneDuplicationInArray\OneDuplicationInArray\obj\Debug\OneDuplicationInArray.csprojResolveAssemblyReference.cache
+c:\users\richard iyama\documents\visual studio 2017\Projects\OneDuplicationInArray\OneDuplicationInArray\obj\Debug\OneDuplicationInArray.exe
+c:\users\richard iyama\documents\visual studio 2017\Projects\OneDuplicationInArray\OneDuplicationInArray\obj\Debug\OneDuplicationInArray.pdb
